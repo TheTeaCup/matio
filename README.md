@@ -1,2 +1,3 @@
-# matio
-My first Eris bott
+# Matio!
+- My first ever Eris lib bot
+
