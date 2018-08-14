@@ -4,15 +4,15 @@ const sharder = new Sharder(auth.token, "/eris.js", {
     stats: true,
     debug: true,
     guildsPerShard: "1500",
-    name: "ExampleBot",
+    name: "Matio",
     webhooks: {
       shard: {
-        id: "478737432594874369",
-        token: "a8kD0Sr0QoauL2MnvKe7HwfTPxVwRwufIbHBz0j5TwiHKJ50Hq6UB452dea89uxzkOZe"
+        id: "",
+        token: ""
       },
        cluster: {
-        id: "478737432594874369",
-        token: "a8kD0Sr0QoauL2MnvKe7HwfTPxVwRwufIbHBz0j5TwiHKJ50Hq6UB452dea89uxzkOZe"
+        id: "",
+        token: ""
       }
     },
     clientOptions: {
